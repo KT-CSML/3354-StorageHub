@@ -1,2 +1,2 @@
-# 3354-StorageHub
+# StorageHub
 CS 3354 Final group project (Spring 2020).
