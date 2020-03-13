@@ -1,0 +1,22 @@
+ Market Storage System
+1.1 Inventory
+  1.1.1 Stock- number of items avaliable.
+  1.1.2 Updating Stock - items that are received for stocking
+  1.1.3 Location of Stock in Market place
+  1.1.4 Misc Items
+1.2 User Account
+  1.2.1 Purchase items 
+  1.2.2 Request Items 
+  1.2.3 Refund Items
+  1.2.4 Add & Delete Items
+  1.2.5 Pay by Credit Card or Gift Card
+  1.2.6 Pick up from Store
+  1.2.7 Delivery to House
+1.3 Market Location 
+  1.3.1 Number of Market Places
+  1.3.2 Avaliable items
+1.4 Discounts
+  1.4.1 Items on sale
+  1.4.2 Employee Discount
+ 
+ 
